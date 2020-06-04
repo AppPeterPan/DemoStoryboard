@@ -13,6 +13,8 @@
 		9B49A3722488875600D4927D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9B49A3702488875600D4927D /* Main.storyboard */; };
 		9B49A3742488875800D4927D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9B49A3732488875800D4927D /* Assets.xcassets */; };
 		9B49A3772488875800D4927D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9B49A3752488875800D4927D /* LaunchScreen.storyboard */; };
+		9B49A37F2488879900D4927D /* First.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9B49A37E2488879900D4927D /* First.storyboard */; };
+		9B49A381248887A200D4927D /* Second.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9B49A380248887A200D4927D /* Second.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +26,8 @@
 		9B49A3732488875800D4927D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		9B49A3762488875800D4927D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		9B49A3782488875800D4927D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9B49A37E2488879900D4927D /* First.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = First.storyboard; sourceTree = "<group>"; };
+		9B49A380248887A200D4927D /* Second.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = Second.storyboard; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +64,8 @@
 				9B49A36C2488875600D4927D /* SceneDelegate.swift */,
 				9B49A36E2488875600D4927D /* ViewController.swift */,
 				9B49A3702488875600D4927D /* Main.storyboard */,
+				9B49A37E2488879900D4927D /* First.storyboard */,
+				9B49A380248887A200D4927D /* Second.storyboard */,
 				9B49A3732488875800D4927D /* Assets.xcassets */,
 				9B49A3752488875800D4927D /* LaunchScreen.storyboard */,
 				9B49A3782488875800D4927D /* Info.plist */,
@@ -128,6 +134,8 @@
 				9B49A3772488875800D4927D /* LaunchScreen.storyboard in Resources */,
 				9B49A3742488875800D4927D /* Assets.xcassets in Resources */,
 				9B49A3722488875600D4927D /* Main.storyboard in Resources */,
+				9B49A381248887A200D4927D /* Second.storyboard in Resources */,
+				9B49A37F2488879900D4927D /* First.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
